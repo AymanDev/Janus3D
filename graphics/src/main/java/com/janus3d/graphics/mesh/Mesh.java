@@ -1,6 +1,3 @@
-/**
- * @author KingoSawada
- */
 package com.janus3d.graphics.mesh;
 
 import com.janus3d.core.IBind;

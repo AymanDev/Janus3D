@@ -1,6 +1,4 @@
-/**
- * @author KingoSawada
- */
+
 package com.janus3d.graphics.buffer;
 
 import static org.lwjgl.opengl.GL15.GL_ARRAY_BUFFER;

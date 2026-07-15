@@ -1,6 +1,4 @@
-/**
- * @author KingoSawada
- */
+
 package com.janus3d.graphics.query;
 
 import com.janus3d.core.IBind;

@@ -1,6 +1,4 @@
-/**
- * @author KingoSawada
- */
+
 package com.janus3d.graphics;
 
 import static org.lwjgl.opengl.GL20.glUseProgram;

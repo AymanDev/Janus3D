@@ -1,6 +1,4 @@
-/**
- * @author KingoSawada
- */
+
 package com.janus3d.graphics.texture;
 
 import java.nio.ByteBuffer;

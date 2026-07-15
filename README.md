@@ -1,13 +1,20 @@
 # Janus3D
-Framework that I created for making game and engine development easier and a bit more abstract.
-Intended as mostly for learning purposes.
-
-Now I'm porting and extracting it from other project that I'm helping with.
+Library + framework for creating games. Mostly focuses on rendering for now, but could expand in the future
 
 ## Primary dependencies
 * LWJGL
 * JOML
 * Assimp
+
+## Library
+*core and graphics packages*
+
+Here is mostly some classes that could help you build your own rendering pipeline for your engine/game
+
+## Framework
+*engine package*
+
+It is mostly systems that created inspired by Unity ideas for my personal needs. You could use it if its fits your needs
 
 
 ### P.S

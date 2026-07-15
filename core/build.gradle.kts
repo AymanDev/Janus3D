@@ -32,6 +32,11 @@ dependencies {
     api("org.lwjgl:lwjgl-nanovg")
     api("org.lwjgl:lwjgl-nanovg::$lwjglNatives")
 
+    api("org.lwjgl:lwjgl-stb")
+    api("org.lwjgl:lwjgl-stb::$lwjglNatives")
+
+
+
     api("org.lwjgl:lwjgl-renderdoc")
 
     api("org.joml:joml:$jomlVersion")

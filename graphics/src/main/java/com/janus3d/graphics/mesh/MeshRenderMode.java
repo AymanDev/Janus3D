@@ -1,6 +1,4 @@
-/**
- * @author KingoSawada
- */
+
 package com.janus3d.graphics.mesh;
 
 import static org.lwjgl.opengl.GL11.*;
