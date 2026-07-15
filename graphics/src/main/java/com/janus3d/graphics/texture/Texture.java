@@ -6,6 +6,7 @@ package com.janus3d.graphics.texture;
 
 import com.janus3d.core.IBind;
 import com.janus3d.core.IDispose;
+import com.janus3d.graphics.GLState;
 
 import static org.lwjgl.opengl.GL11.*;
 
@@ -44,6 +45,10 @@ public class Texture implements IDispose, IBind {
     @Override
     public void dispose() {
         glDeleteTextures(id);
+    }
+
+    public int getId() {
+        return id;
     }
 
     public TextureTarget getTarget() {
